@@ -7,5 +7,23 @@
 </head>
 <body>
     
+    <!-- Awal Header -->
+    <header>
+
+    </header>
+    <!-- Akhir Header -->
+
+    <!-- Awal Main -->
+    <main>
+
+    </main>
+    <!-- Akhir Main -->
+
+    <!-- Awal Footer -->
+    <footer>
+
+    </footer>   
+    <!-- Akhir Footer --> 
+
 </body>
 </html>
